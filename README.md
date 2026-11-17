@@ -32,7 +32,6 @@ I also created a interactive sales dashboard to visualize important business met
 - Designed a professional sales dashboard.
 - Presented business insights through data visualization.
 
-- 
 ## 5. Excel Concepts Used
 
 - Data Entry Using Excel Data Form
