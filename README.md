@@ -23,7 +23,7 @@ I also created a interactive sales dashboard to visualize important business met
 ## 4. Project Features
 
 - Created a sales dataset containing 100 rows.
-- - Managed and organized sales records.
+- Managed and organized sales records.
 - Practiced data cleaning and formatting.
 - Performed sales data analysis.
 - Used Excel formulas and functions.
